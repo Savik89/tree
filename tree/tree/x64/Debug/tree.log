@@ -1,0 +1,4 @@
+﻿  tree.cpp
+C:\Users\savik\source\repos\tree\tree\tree.cpp(254,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\savik\source\repos\tree\tree\tree.cpp(510,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tree.vcxproj -> C:\Users\savik\source\repos\tree\x64\Debug\tree.exe
